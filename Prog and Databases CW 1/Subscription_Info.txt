@@ -1,0 +1,13 @@
+CustomerID,SubscriptionType,StartDate,EndDate
+abcd,Basic,2021-11-15,2025-11-30
+lbro,Premium,2022-07-09,2025-12-24
+gtra,Premium,2006-02-27,2048-02-27
+ocol,Basic,2020-07-09,2025-11-29
+heva,Basic,2024-02-11,2024-12-25
+jbez,Premium,2009-12-24,2030-12-31
+fmcd,Basic,2005-12-02,2025-07-09
+hotw,Premium,2023-09-17,2045-02-27
+vtic,Basic,2024-09-23,2028-09-03
+lcar,Premium,2022-11-12,2090-12-31
+abla,Premium,2023-07-07,2090-12-31
+slyn,Basic,2010-04-17,2024-11-30

@@ -1,0 +1,22 @@
+RecordID,,ArtistTitle,Medium,Genre,PurchaseDate
+efpj1,Pearl Jam,Even Flow,CD,Rock,1992-02-27
+ise1,Eminem,I'm Shady,Vinyl,Rap,2000-01-01
+pbs1,Black Sabbath,Paranoid,Vinyl,Rock,2009-02-11
+tpk1,Pitbull,Timber,CD,Pop,2013-09-29
+iitsdpkr1,Dolly Parton,Tape,Pop,2010-12-30
+cymr1,Rodriguez,Crucify Your Mind,Tape,Folk,2015-12-25
+wrtc1,Tyler Childers,Whitehouse Road,CD,Country,2024-02-27
+shals1,Lynyrd Skynyrd,Sweet Home Alabama,Vinyl,Rock,1976-09-18
+cec1,Eric Clapton,Cocaine,Tape,Rock,1999-05-22
+bcbc1,Brent Cobb,Black Creek,CD,Country,2024-11-18
+rme1,Eminem,Role Model,CD,Rap,2000-01-01
+cgtc1,Tyler Childers,Charleston Girl,CD,Country,2024-07-23
+sosds1,Dire Straits,Sultans Of Swing,Vinyl,Rock,1980-08-30
+cl2p1,2Pac,California Love,Tape,Rap,2000-04-04
+jomlcs1,Chris Stapleton,Joy Of My Life,CD,Country,2022-05-21
+dymka1,ABBA,Does Your Mother Know,Tape,Pop,2010-09-16
+sfm1,Fleetwood Mac,Storms,Vinyl,Rock,1989-03-02
+tlawrtb1,The Beatles,The Long And Winding Road,Vinyl,Pop,2020-12-25
+botbccw1,Creedence Clearwater Revival,Born On The Bayou,CD,Rock,2024-11-19
+kmccw1,Colter Wall,Kate McCannon,CD,Country,2019-10-11
+bitu1,Bruce Springsteen,Born in the USA,Vinyl,Rock,2000-09-18
